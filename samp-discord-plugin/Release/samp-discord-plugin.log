@@ -1,0 +1,11 @@
+﻿  discord.cpp
+  dllmain.cpp
+  client.cpp
+  http.cpp
+  query.cpp
+  Generating code
+  163 of 168 functions (97.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  samp-discord-plugin.vcxproj -> C:\Users\ZID\Downloads\Compressed\samp rpc\Release\samp-rpc-plugin.asi
